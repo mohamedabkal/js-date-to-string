@@ -1,5 +1,5 @@
 # Introduction
-A small and lightweight library for converting JavaScript dates to strings.
+A small and lightweight library for calculating elapsed time in JavaScript.
 
 # Installation
 ```
