@@ -2,7 +2,7 @@
 A small and lightweight library for converting JavaScript dates to strings.
 
 # Installation
-`npm i js-date-to-string`
+```npm i js-date-to-string```
 
 # Usage
 ```
