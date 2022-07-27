@@ -1,6 +1,6 @@
 {
   "name": "js-date-to-string",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "description": "Converts js dates to meaningful strings",
   "main": "index.js",
   "scripts": {
