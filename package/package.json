@@ -1,0 +1,24 @@
+{
+  "name": "js-date-to-string",
+  "version": "1.0.0",
+  "description": "Converts js dates to meaningful strings",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mohamedabkal/js-date-to-string.git"
+  },
+  "keywords": [
+    "js-date",
+    "date",
+    "js"
+  ],
+  "author": "Mohammad Abkal",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mohamedabkal/js-date-to-string/issues"
+  },
+  "homepage": "https://github.com/mohamedabkal/js-date-to-string#readme"
+}
