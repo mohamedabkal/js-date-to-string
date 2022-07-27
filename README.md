@@ -1,5 +1,5 @@
 # Introduction
-A small and lightweight library for converting JS dates to strings.
+A small and lightweight library for converting JavaScript dates to strings.
 
 # Installation
 `npm i js-date-to-string`
