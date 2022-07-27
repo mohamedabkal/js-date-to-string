@@ -12,7 +12,7 @@ function jsDateToString(date) {
     const yearInMs = 31556952000;
 
     const nowInMs = Date.now();
-    const dateToConvertInMs = date.getTime();
+    const dateToConvertInMs = date?.getTime();
     const diffInMs = nowInMs - dateToConvertInMs;
 
     // lest than a minute = now
