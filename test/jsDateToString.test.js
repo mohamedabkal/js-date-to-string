@@ -1,4 +1,4 @@
-const jsDateToString = require('../index');
+const jsDateToString = require('../src/index');
 
 test('returns undefined if date is invalid', () => {
     expect(jsDateToString(null)).toBe(undefined);
